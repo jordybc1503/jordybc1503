@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ - 🌱 I’m currently learning Tensor Flow js
+ -  🔭 I’m currently working on project of machine learning to complete preciptitaion data with neural networks and random forest
+
 <!--
 **jordybc1503/jordybc1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

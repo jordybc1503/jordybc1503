@@ -25,7 +25,8 @@
 
 ### Frameworks
 
-![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="200" height="200">
+
 
 <!--
 **jordybc1503/jordybc1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,7 +25,7 @@
 
 ### Frameworks
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="200" height="200">
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50">
 
 <!-- Markdown content -->
 # My Markdown Page

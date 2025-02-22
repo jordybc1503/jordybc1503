@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there, I'm César Jordi Bolo Caldas a fullstack developer 👋
 
 ![jordybc1503](https://drive.google.com/uc?export=view&id=1H5pC7wruxMFKj0NEpCFCPGqYOL10TOB-)
 
+### About me
 
 
  - 🌐 I'm currently stunding to be a web full stack developer in Egg and Codecademy.
@@ -22,24 +23,19 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
+![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java)
+
 
 ### Frameworks
-
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50">
+<div > 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" alt="Ruby on Rails" width="50" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="50"  height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"> 
+</div>
 
 <!-- Markdown content -->
-# My Markdown Page
-
-Here is some content.
-
-<!-- HTML and JavaScript content -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById("demo").innerHTML = "Hello from JavaScript!";
-  });
-</script>
-
-<div id="demo"></div>
 
 
 <!--
